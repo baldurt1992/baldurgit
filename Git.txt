@@ -1,3 +1,5 @@
 git init
 
 git remote add origin https://github.com/baldurt1992/baldurgit.git
+
+primera clase programacion
