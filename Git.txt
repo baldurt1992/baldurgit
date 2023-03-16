@@ -1,5 +1,15 @@
-git init
+git init: inicializa repositorio
 
-git remote add origin https://github.com/baldurt1992/baldurgit.git
+git remote add origin https://github.com/baldurt1992/baldurgit.git: asociar repositorio a uno de githhub
 
 primera clase programacion
+
+git lens: permite visualizar los cambios realizados en el visual.
+
+.gitignore
+
+git commit -m "descripción": Descripción del commit 
+
+git add .: agrega los archivos al commit
+
+git push origin main: Envia los archivos del repositorio local al de github
